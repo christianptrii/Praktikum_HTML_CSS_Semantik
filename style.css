@@ -1,0 +1,16 @@
+#biodata h2 {
+    color: maroon;
+
+}
+
+#pendidikan h2 {
+    color: maroon;
+}
+
+#skills h2 {
+    color: maroon;
+}
+
+#skills p {
+    font-weight: bold;
+}
